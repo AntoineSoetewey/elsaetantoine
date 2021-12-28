@@ -62,7 +62,7 @@ DefaultContentLanguageInSubdir = false
   # Reference: https://tailwindcss.com/docs/customizing-colors
   ascentColor = "bg-blue-100"
   
-  enableEmoji = true
+enableEmoji = true
 
 # [params.homepage.social]
 #   # Global params common for both languages

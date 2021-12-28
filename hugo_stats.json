@@ -12,7 +12,6 @@
       "h1",
       "h3",
       "h4",
-      "h5",
       "head",
       "header",
       "html",
@@ -116,11 +115,6 @@
       "z-10"
     ],
     "ids": [
-      "10h---brunch",
-      "16h---eglise",
-      "17h---vin-dhonneur",
-      "18h---dîner",
-      "22h---soirée-dansante",
       "a",
       "brunch",
       "château-bayard",
@@ -135,12 +129,8 @@
       "maison-communale-de-knokke",
       "mariage-civil",
       "mariage-religieux",
-      "quentin",
       "quentin-ou-kinkin",
       "soirée-dansante",
-      "stéphan",
-      "stéphan-oui-oui-sans-e",
-      "stéphan-oui-oui-sans-e-à-la-fin",
       "stéphan-oui-oui-sans-e-à-la-fin-ou-stefouchichou",
       "stéphanie",
       "vin-dhonneur"
