@@ -64,11 +64,11 @@ DefaultContentLanguageInSubdir = false
   
   enableEmoji = true
 
-[params.homepage.social]
-  # Global params common for both languages
-  title = "Confirmer ma présence"
-  description = "23 août 2023, Château Bayard"
-  twitter = "https://twitter.com/"
+# [params.homepage.social]
+#   # Global params common for both languages
+#   title = "Confirmer ma présence"
+#   description = "23 août 2023, Château Bayard"
+#   twitter = "https://twitter.com/"
 
 [build]
   writeStats = true
