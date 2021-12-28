@@ -20,4 +20,4 @@ Les tarifs sont les suivants :
 
 *(ou bien c'est gratuit?)*
 
-Si vous désirez réserver une chambre, veuillez nous contacter (en mentionnant bien le nombre de chambres et la taille des chambres). Nous vous ferons un plaisir de la (les) réserver pour vous.
+Si vous désirez réserver une chambre, veuillez nous [contacter](/contact/) (en mentionnant bien le nombre de chambres et la taille des chambres). Nous vous ferons un plaisir de la (les) réserver pour vous.
