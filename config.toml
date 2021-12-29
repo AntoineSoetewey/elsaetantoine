@@ -84,3 +84,5 @@ enableInlineShortcodes = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
+googleAnalytics = 'G-248HJC8VNE'
