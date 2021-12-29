@@ -6,7 +6,7 @@ slug: histoire
 
 Après un match sur Tinder en décembre 2017, ils se sont rencontrés pour la première fois le 6 janvier 2018 dans le bar "Le vingt heures vin". La mariée vous dira qu'elle a accepté de rencontrer le marié pour enreprendre quelque chose d'un peu "fou" en 2018.
 
-![Source: Page Facebook du vingt heures vin](/20heuresvin.jpeg)
+![Source: Page Facebook du vingt heures vin](/img/20heuresvin.jpeg)
 
 Ils ont écrit un premier chapitre de leur histoire commune en emménageant ensemble à Incourt en août 2019.
 

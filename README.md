@@ -1,6 +1,8 @@
 # elsaetantoine
 
-See [elsaetantoine.com](https://elsaetantoine.com/)
+Voir [elsaetantoine.com](https://elsaetantoine.com/).
+
+Vous avez aussi envie de créer un site web pour votre propre mariage ? Dans ce cas, n'hésitez pas à me [contacter](https://antoinesoetewey.com/contact/) pour en discuter plus en détails.
 
 # Status
 
