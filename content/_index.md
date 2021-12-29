@@ -18,4 +18,10 @@ Pour des questions d'organisation, nous vous invitons à confirmer votre présen
 <br>
 Si vous rencontrez un problème ou que vous avez une question, n'hésitez pas à nous <a href="/contact/"><u>contacter</u></a>.
 
+## Emoji test
 
+`:heart:`
+
+:heart:
+
+`{{ "I :heart: Hugo" | emojify }}`
