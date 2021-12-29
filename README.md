@@ -1,6 +1,6 @@
 # elsaetantoine
 
-Voir [elsaetantoine.com](https://elsaetantoine.com/)
+See [elsaetantoine.com](https://elsaetantoine.com/)
 
 # Status
 
