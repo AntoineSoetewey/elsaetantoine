@@ -12,8 +12,8 @@
   <meta name="author" content="E &amp; A" />
   <meta name="generator" content="Hugo 0.91.2" /><link
     rel="stylesheet"
-    href="https://elsaetantoine.com/css/styles.min.a58dadbfa0026415c112e98fd83ca65a7ad857c04ece4df195ebb83bb70b164b.css"
-    integrity="sha256-pY2tv6ACZBXBEumP2DymWnrYV8BOzk3xleu4O7cLFks="
+    href="https://elsaetantoine.com/css/styles.min.ce59e355c1a1ab83dd52a44215bf16133a463ae9bb59cd7cdd63fe42a52e2735.css"
+    integrity="sha256-zlnjVcGhq4PdUqRCFb8WEzpGOum7Wc183WP+QqUuJzU="
   />
   
   
@@ -205,5 +205,17 @@
     toggleDarkMode();
   }
 </script>
-</body>
+
+
+<script>
+  const mobileMenuButton = document.querySelector('.mobile-menu-button')
+  const mobileMenu = document.querySelector('.mobile-menu')
+  function toggleMenu() {
+    mobileMenu.classList.toggle('hidden');
+    mobileMenu.classList.toggle('flex');
+  }
+  if(mobileMenu && mobileMenuButton){
+    mobileMenuButton.addEventListener('click', toggleMenu)
+  }
+</script> </body>
 </html>
