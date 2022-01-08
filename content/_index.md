@@ -25,3 +25,5 @@ Si vous rencontrez un problème ou que vous avez une question, n'hésitez pas à
 :heart:
 
 `{{ "I :heart: Hugo" | emojify }}`
+
+This is a :smile:
