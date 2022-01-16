@@ -20,7 +20,7 @@ slug: lieu
 - texte
 - etc.
 
-### Château Bayard
+### Serres de Béronsart
 
 - Adresse
 - Photos

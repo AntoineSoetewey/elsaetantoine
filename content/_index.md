@@ -5,9 +5,9 @@ title: Elsa & Antoine
 
 Bonjour à toutes et tous,
 
-Vous trouverez sur ce site toutes les informations nécessaires pour le mariage d'Elsa et Antoine.
+Vous trouverez sur ce site toutes les informations nécessaires pour notre mariage.
 
-Nous sommes ravis de vous faire part de cette grande nouvelle, et nous nous réjouissons de passer ce moment avec vous !
+Nous sommes ravis de vous faire part de cette grande nouvelle, et nous nous réjouissons déjà de passer ce moment avec vous !
 
 Pour des questions d'organisation, nous vous invitons à confirmer votre présence en suivant ce lien :
 

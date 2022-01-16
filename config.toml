@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = false
     languageName = "English"
     [languages.en.params]
       introTitle = "Elsa & Antoine"
-      introSubtitle = "Elle a dit oui !"
+      introSubtitle = "23 septembre 2023"
       introPhoto = "/picture.jpg"
 
     [[languages.en.menu.main]]

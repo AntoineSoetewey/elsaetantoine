@@ -6,7 +6,7 @@ slug: programme
 
 ### Mariage civil
 
-- Date :
+- Date : 24 juin 2023
 - Dresscode :
 
 #### Maison communale
@@ -19,7 +19,7 @@ Vous êtes ensuite tous invités pour fêter cela avec nous sur la plage. Un lun
 
 ### Mariage religieux
 
-- Date :
+- Date : 23 septembre 2023
 - Dresscode :
 
 #### Eglise
