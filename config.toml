@@ -55,7 +55,7 @@ DefaultContentLanguageInSubdir = false
   enableSearch = false
 
   # Custom copyright - optional
-  copyright = "© Elsa :heart: Antoine {{ 'I :heart: Hugo' | emojify }}"
+  # copyright = "© Elsa & Antoine"
   favicon = "/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
