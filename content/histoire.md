@@ -21,6 +21,3 @@ Entre deux week-ends à la côte belge, le marié a demandé la main de la mari�
 *photo de nous 2*
 
 Ils continueront d'écrire leur histoire commune et ce jusqu'à la fin de leur vie en se mariant le xxx.
-
-
-test emoji : This is a :smile:
