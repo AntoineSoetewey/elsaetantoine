@@ -4,28 +4,32 @@ title: Lieu
 slug: lieu
 ---
 
-### Maison communale de Knokke
+Ci-dessous les différents lieux pour le mariage civil et le mariage religieux.
 
-- Adresse
-- Photos
+Si besoin, vous trouverez également plus d'informations quant au programme de la journée via cette [page](/programme/).
+
+### Maison communale d'Incourt
+
+- Adresse : Rue de Brombais 2, 1315 Incourt
+- Photos?
 - Parking?
-- texte
+- texte?
 - etc.
 
 ### Eglise xxx
 
 - Adresse
-- Photos
+- Photos?
 - Parking?
-- texte
+- texte?
 - etc.
 
 ### Serres de Béronsart
 
-- Adresse
-- Photos
+- Adresse : Rue des Carrières 7, 5340 Gesves
+- Photos?
 - Parking?
-- texte
+- texte?
 - etc.
 
 *Mettre les lieux dans l'ordre chronologique*
