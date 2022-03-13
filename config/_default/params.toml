@@ -8,13 +8,11 @@
 colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 
 enableSearch = false
 enableCodeCopy = false
 
-mainSections = ["samples"]
-# robots = ""
 showScrollToTop = true
 
 [homepage]
