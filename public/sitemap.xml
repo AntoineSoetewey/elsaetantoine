@@ -1,25 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://elsaetantoine.com/blog/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/categories/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/contact/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/hebergement/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/lieu/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/histoire/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/programme/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/tags/</loc>
-  </url><url>
-    <loc>https://elsaetantoine.com/temoins/</loc>
-  </url>
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/contact/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/hebergement/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/lieu/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/histoire/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/programme/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://elsaetantoine.be/temoins/</loc>
+          </url>
+    
+  
 </urlset>

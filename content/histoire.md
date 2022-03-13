@@ -1,12 +1,13 @@
 ---
-author: E & A
-title: Notre histoire
-slug: histoire
+title: "Notre histoire"
+description: "Un aperçu de notre histoire"
 ---
 
 Après un match sur Tinder en décembre 2017, nous nous rencontrons pour la première fois le 6 janvier 2018 dans le bar "Le vingt heures vin". La mariée vous dira qu'elle a accepté le date pour entreprendre quelque chose d'un peu "fou" en 2018.
 
 ![Source: Page Facebook du vingt heures vin](/img/20heuresvin.jpeg)
+
+<img src="/./histoire_files/20heuresvin.jpeg" alt="" width="100%"/>
 
 En août 2019, nous écrivons un premier chapitre de notre histoire commune en emménageant ensemble dans une maison située à Incourt.
 

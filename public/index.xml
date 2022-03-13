@@ -1,78 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elsa &amp; Antoine on E &amp; A</title>
-    <link>https://elsaetantoine.com/</link>
-    <description>Recent content in Elsa &amp; Antoine on E &amp; A</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://elsaetantoine.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>Elsa &amp; Antoine</title>
+    <link>https://elsaetantoine.be/</link>
+    <description>Recent content on Elsa &amp; Antoine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; Elsa :heart: Antoine</copyright><atom:link href="https://elsaetantoine.be/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://elsaetantoine.com/contact/</link>
+      <link>https://elsaetantoine.be/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elsaetantoine.com/contact/</guid>
-      <description>Si vous avez la moindre question, vous pouvez nous contacter par email : elsaetantoine@hotmail.com.
-Nous vous ferons un plaisir de vous répondre dans les plus brefs délais.</description>
+      <guid>https://elsaetantoine.be/contact/</guid>
+      <description>Si vous avez la moindre question, vous pouvez nous contacter par email : elsaetantoine@hotmail.</description>
     </item>
     
     <item>
       <title>Hébergement</title>
-      <link>https://elsaetantoine.com/hebergement/</link>
+      <link>https://elsaetantoine.be/hebergement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elsaetantoine.com/hebergement/</guid>
-      <description>Plusieurs chambres vous ont été réservées dans l&amp;rsquo;hôtel xxx.
-Il y a des chambres de 2, 3 et 4 personnes.
-Plus d&amp;rsquo;informations via ce lien.
-Les tarifs sont les suivants :
-   Taille Prix     2 personnes 50€   3 personnes 60€   4 personnes 70€    (ou bien c&amp;rsquo;est gratuit?)
-Si vous désirez réserver une chambre, veuillez nous contacter (en mentionnant bien le nombre de chambres et la taille des chambres).</description>
+      <guid>https://elsaetantoine.be/hebergement/</guid>
+      <description>Il existe une multitude de logements dans la région, à proximité du lieu de mariage.</description>
     </item>
     
     <item>
       <title>Lieu</title>
-      <link>https://elsaetantoine.com/lieu/</link>
+      <link>https://elsaetantoine.be/lieu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elsaetantoine.com/lieu/</guid>
-      <description>Maison communale de Knokke  Adresse Photos Parking? texte etc.  Eglise xxx  Adresse Photos Parking? texte etc.  Château Bayard  Adresse Photos Parking? texte etc.  Mettre les lieux dans l&amp;rsquo;ordre chronologique</description>
+      <guid>https://elsaetantoine.be/lieu/</guid>
+      <description>Ci-dessous les différents lieux pour le mariage civil et le mariage religieux.</description>
     </item>
     
     <item>
       <title>Notre histoire</title>
-      <link>https://elsaetantoine.com/histoire/</link>
+      <link>https://elsaetantoine.be/histoire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elsaetantoine.com/histoire/</guid>
-      <description>Après un match sur Tinder en décembre 2017, ils se sont rencontrés pour la première fois le 6 janvier 2018 dans le bar &amp;ldquo;Le vingt heures vin&amp;rdquo;. La mariée vous dira qu&amp;rsquo;elle a accepté de rencontrer le marié pour enreprendre quelque chose d&amp;rsquo;un peu &amp;ldquo;fou&amp;rdquo; en 2018.
-Ils ont écrit un premier chapitre de leur histoire commune en emménageant ensemble à Incourt en août 2019.
-photo maison, mais laquelle?
-Ils ont continué à se découvrir en voyageant et en partageant leur goût pour l&amp;rsquo;aventure.</description>
+      <guid>https://elsaetantoine.be/histoire/</guid>
+      <description>Après un match sur Tinder en décembre 2017, nous nous rencontrons pour la première fois le 6 janvier 2018 dans le bar &amp;ldquo;Le vingt heures vin&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Programme</title>
-      <link>https://elsaetantoine.com/programme/</link>
+      <link>https://elsaetantoine.be/programme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elsaetantoine.com/programme/</guid>
-      <description>Mariage civil  Date : Dresscode :  Maison communale On vous attend à la maison communale de Knokke (ajouter adresse) le xxx à 10h.
-Fête Vous êtes ensuite tous invités pour fêter cela avec nous sur la plage. Un lunch ainsi qu&amp;rsquo;à boire est prévu au bar de plage O&amp;rsquo;bar (ajouter adresse).
-Mariage religieux  Date : Dresscode :  Eglise On se donne rendez-vous à 16h à l&amp;rsquo;église xxx pour la cérémonie religieuse</description>
+      <guid>https://elsaetantoine.be/programme/</guid>
+      <description>Mariage civil #  Date : 24 juin 2023 Dresscode :  Maison communale # On vous attend à la maison communale d&amp;rsquo;Incourt (rue de Brombais 2, 1315 Incourt) le 24 juin 2023 à xxx h.</description>
     </item>
     
     <item>
       <title>Témoins</title>
-      <link>https://elsaetantoine.com/temoins/</link>
+      <link>https://elsaetantoine.be/temoins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elsaetantoine.com/temoins/</guid>
-      <description>L&amp;rsquo;équipe de la mariée Isaline C&amp;rsquo;est qui ?
-Sa particularité ?
-Stéphanie C&amp;rsquo;est qui ?
-Sa particularité ?
-L&amp;rsquo;équipe du marié Quentin ou Kinkin C&amp;rsquo;est qui ? Le copain d&amp;rsquo;enfance du marié. Ils se sont rencontrés vers l&amp;rsquo;âge de 15 ans sur un terrain de tennis au TC1310 de La Hulpe. Depuis, ils ont partagé toutes leurs soirées et ils ont vécu ensemble en colocation pendant 3 ans.
-Sa particularité ?</description>
+      <guid>https://elsaetantoine.be/temoins/</guid>
+      <description>L&amp;rsquo;équipe de la mariée # Isaline # C&amp;rsquo;est qui ?</description>
     </item>
     
   </channel>

@@ -1,7 +1,6 @@
 ---
-author: E & A
-title: Témoins
-slug: temoins
+title: "Témoins"
+description: "Présentation des témoins"
 ---
 
 ### L'équipe de la mariée

@@ -1,7 +1,6 @@
 ---
-author: E & A
-title: Programme
-slug: programme
+title: "Programme"
+description: "Moments clés pour notre mariage"
 ---
 
 ### Mariage civil
