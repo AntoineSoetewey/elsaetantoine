@@ -15,7 +15,7 @@ Si vous désirez réserver une nuit dans l'un d'eux, nous vous laissons le soin 
 - **Domaine sur les Sarts** à Ohey et à Gesves : [domainesurlessarts.com](https://www.domainesurlessarts.com/) +32 85 61 61 15
 - **Studio Cosy** où l’eau fait chanter la pierre : [beromichel@hotmail.com](mailto:beromichel@hotmail.com) +32 81 58 12 23
 - **Chambre thématique « Gesves Côté Jardin »** à Gesves : [gesves-cote-jardin.be](http://gesves-cote-jardin.be/) +32 471 89 40 29
-- **Le Manoir de Houtte** à Gesves : [manoirdehoute.be](http://www.manoirdehoute.be/) +32 473 30 82 17
+- **Le Manoir de Houtte** à Gesves : [manoirdehoute.be](https://manoirdehoute.be/) +32 473 30 82 17
 - **La Maison du Meunier** à Crupet : [maisondumeunier.be](http://maisondumeunier.be/fr/) +32 471 37 53 00
 - **La Maison Contemporaine** à Erpent : [la-maison-contemporaine.be](http://la-maison-contemporaine.be/) +32 478 54 76 55
 - **La Maison Couleurs Nature** à Thon-Samson : [maisoncouleursnature.be](https://www.maisoncouleursnature.be/) +32 472 44 77 51
