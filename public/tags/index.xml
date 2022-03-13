@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Elsa &amp; Antoine</title>
-    <link>https://elsaetantoine.be/tags/</link>
+    <link>https://elsaetantoine.com/tags/</link>
     <description>Recent content in Tags on Elsa &amp; Antoine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>&amp;copy; Elsa :heart: Antoine</copyright><atom:link href="https://elsaetantoine.be/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Elsa :heart: Antoine</copyright><atom:link href="https://elsaetantoine.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
