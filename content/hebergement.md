@@ -1,6 +1,7 @@
 ---
 title: "Hébergement"
 description: "Liste des hébergements à proximité"
+layout: "simple"
 ---
 
 Il existe une multitude de logements dans la région, à proximité du lieu de mariage.

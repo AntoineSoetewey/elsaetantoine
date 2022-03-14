@@ -1,6 +1,7 @@
 ---
 title: "Lieu"
 description: "Lieux clés pour notre mariage"
+layout: "simple"
 ---
 
 Ci-dessous les différents lieux pour le mariage civil et le mariage religieux.

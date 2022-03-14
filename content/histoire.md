@@ -1,6 +1,7 @@
 ---
 title: "Notre histoire"
 description: "Un aperçu de notre histoire"
+layout: "simple"
 ---
 
 Après un match sur Tinder en décembre 2017, nous nous rencontrons pour la première fois le 6 janvier 2018 dans le bar "Le vingt heures vin". La mariée vous dira qu'elle a accepté le date pour entreprendre quelque chose d'un peu "fou" en 2018.

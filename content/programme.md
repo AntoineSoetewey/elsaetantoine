@@ -1,6 +1,7 @@
 ---
 title: "Programme"
 description: "Moments clés pour notre mariage"
+layout: "simple"
 ---
 
 ### Mariage civil

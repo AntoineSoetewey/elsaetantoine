@@ -1,6 +1,7 @@
 ---
 title: "Témoins"
 description: "Présentation des témoins"
+layout: "simple"
 ---
 
 ### L'équipe de la mariée

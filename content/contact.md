@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 description: "Contactez-nous si vous avez la moindre question !"
+layout: "simple"
 ---
 
 Si vous avez la moindre question, vous pouvez nous contacter par email : [elsaetantoine@hotmail.com](mailto:elsaetantoine@hotmail.com).
