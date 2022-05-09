@@ -9,11 +9,10 @@ colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 showAppearanceSwitcher = true
-
 enableSearch = false
 enableCodeCopy = false
-
 showScrollToTop = true
+attribution = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
