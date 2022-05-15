@@ -1,5 +1,5 @@
 ---
-title: "Lieu"
+title: "Lieux"
 description: "Lieux clés pour notre mariage"
 layout: "simple"
 ---
