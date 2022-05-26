@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Notre histoire"
-  url = "https://elsaetantoine.com/histoire.jpg"
+  pageRef = "histoire
   weight = 10
 
 [[main]]
