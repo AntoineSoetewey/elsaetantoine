@@ -19,4 +19,7 @@ Pour des questions d'organisation, nous vous invitons à confirmer votre présen
 Confirmer ma présence
 {{< /button >}}
 
+<br>
+<br>
+
 Si vous rencontrez un problème ou que vous avez une question, n'hésitez pas à nous [contacter](/contact/).

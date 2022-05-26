@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Notre histoire"
-  pageRef = "histoire"
+  url = "https://elsaetantoine.com/histoire.pdf"
   weight = 10
 
 [[main]]

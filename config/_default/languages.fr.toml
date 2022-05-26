@@ -8,7 +8,8 @@ rtl = false
 title = "Elsa & Antoine"
 # logo = "img/logo.jpg"
 # description = "23 septembre 2023"
-copyright = "&copy; Elsa :heart: Antoine"
+# copyright = "&copy; Elsa :heart: Antoine"
+copyright = "&copy; Elsa & Antoine"
 
 dateFormat = "2 January 2006"
 
