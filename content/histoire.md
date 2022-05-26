@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Notre histoire"
 description: "Un aperçu de notre histoire"
 layout: "simple"
 ---
