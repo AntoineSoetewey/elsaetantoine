@@ -11,3 +11,8 @@ Params:
   social:
     email: elsaetantoine@hotmail.com
     # instagram: https://www.instagram.com/elsa_vcst/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
