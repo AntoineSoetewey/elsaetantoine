@@ -1,0 +1,27 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Elsa & Antoine"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+googleAnalytics = "G-248HJC8VNE"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Site web du mariage de Elsa et Antoine"
+  logo = "images/DSC_5198.jpg"
+  favicon = true
+
+[Params.social]
+  email = "elsaetantoine@hotmail.com"
