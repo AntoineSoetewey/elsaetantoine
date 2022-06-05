@@ -1,5 +1,5 @@
 ---
-title: "Hébergement"
+title: "Hébergements"
 description: "Liste des hébergements à proximité"
 layout: "simple"
 ---
