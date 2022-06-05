@@ -1,7 +1,11 @@
 {{ define "main" }}
 
-  {{ .Title | emojify }}
-  {{ .Content | emojify }}
+  <h1>
+    {{ .Title | emojify }}
+  </h1>
+  <section>
+    {{ .Content | emojify }}
+  </section>
   {{ partial "template/footer" . }}
   
 {{ end }}
