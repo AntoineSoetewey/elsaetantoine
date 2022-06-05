@@ -25,3 +25,8 @@ googleAnalytics = "G-248HJC8VNE"
 
 [Params.social]
   email = "elsaetantoine@hotmail.com"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

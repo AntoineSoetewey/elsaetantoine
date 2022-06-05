@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+  {{ .Title | emojify }}
+  {{ .Content | emojify }}
+  {{ partial "template/footer" . }}
+  
+{{ end }}
