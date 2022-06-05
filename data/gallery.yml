@@ -1,0 +1,59 @@
+title: "Galerie"
+style: "style2 big lightbox onload-fade-in"
+content: |
+  Text à modifier ou à enlever
+pictures:
+  - title: ""
+    content: ""
+    image: "images/DSC_5217.jpg"
+    thumb: "images/DSC_5217.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5218.jpg"
+    thumb: "images/DSC_5218.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5226.jpg"
+    thumb: "images/DSC_5226.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5227.jpg"
+    thumb: "images/DSC_5227.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5228.jpg"
+    thumb: "images/DSC_5228.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5243.jpg"
+    thumb: "images/DSC_5243.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5248.jpg"
+    thumb: "images/DSC_5248.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5250.jpg"
+    thumb: "images/DSC_5250.jpg"
+    button: "Détail"
+
+  - title: ""
+    content: ""
+    image: "images/DSC_5254.jpg"
+    thumb: "images/DSC_5254.jpg"
+    button: "Détail"
+    

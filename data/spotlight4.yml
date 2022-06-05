@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onload-image-fade-in onscroll-content-fade-right"
+id: "temoins"
+title: ""
+content: |
+  Découvrez nos témoins.
+button: 
+  label: "Témoins"
+  link: "#"
+image: "images/DSC_5210.jpg"

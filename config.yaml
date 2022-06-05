@@ -1,9 +1,13 @@
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-      
-ignoreFiles:
-  - \.Rmd$
-  - \.Rmarkdown$
-  - _cache$
+title: Elsa & Antoine
+theme: hugo-story
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section
+Params:
+  description: Site web du mariage de Elsa et Antoine
+  favicon: yes
+  logo: images/banner.jpg
+  social:
+    email: elsaetantoine@hotmail.com
+    # instagram: https://www.instagram.com/elsa_vcst/
