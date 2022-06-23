@@ -6,5 +6,5 @@ content: |
   Voici un aperçu des hébergements à proximité du Domaine de Béronsart.
 button: 
   label: "Hébergements"
-  link: "#"
+  link: "hebergements"
 image: "images/DSC_5207.jpg"
