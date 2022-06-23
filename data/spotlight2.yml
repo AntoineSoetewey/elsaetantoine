@@ -6,5 +6,5 @@ content: |
   Voici un aperçu des lieux important lors de cette journée.
 button: 
   label: "Lieux"
-  link: "lieux.html"
+  link: "lieux"
 image: "images/DSC_5202.jpg"

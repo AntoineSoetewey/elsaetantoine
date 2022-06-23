@@ -6,5 +6,5 @@ content: |
   Voici un aperçu du programme de la journée.
 button: 
   label: "Programme"
-  link: "programme.html"
+  link: "programme"
 image: "images/DSC_5201.jpg"
