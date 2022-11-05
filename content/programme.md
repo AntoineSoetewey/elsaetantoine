@@ -1,7 +1,10 @@
 ---
 description: Site web pour le mariage d'Elsa et Antoine.
 title: "Programme"
+layout: simple
 ---
+
+![](/photo/barbaracox/DSC_5198.jpg)
 
 Ci-dessous le programme de la journée du 23 septembre 2023.
 

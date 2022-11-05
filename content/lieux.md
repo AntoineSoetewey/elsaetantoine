@@ -1,7 +1,10 @@
 ---
 description: Site web pour le mariage d'Elsa et Antoine.
 title: "Lieux"
+layout: simple
 ---
+
+![](/photo/barbaracox/DSC_5198.jpg)
 
 Ci-dessous les différents lieux où se déroulent le mariage civil et le mariage religieux.
 

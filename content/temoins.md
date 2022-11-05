@@ -1,7 +1,10 @@
 ---
 description: Site web pour le mariage d'Elsa et Antoine.
 title: "Témoins"
+layout: simple
 ---
+
+![](/photo/barbaracox/DSC_5198.jpg)
 
 Nous avons chacun choisi deux proches pour être témoin de notre mariage.
 

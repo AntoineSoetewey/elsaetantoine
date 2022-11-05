@@ -1,6 +1,7 @@
 ---
 description: Site web pour le mariage d'Elsa et Antoine.
 title: "Contactez-nous"
+layout: simple
 ---
 
 ![](/photo/barbaracox/DSC_5198.jpg)

@@ -1,7 +1,10 @@
 ---
 description: Site web pour le mariage d'Elsa et Antoine.
 title: "Hébergements"
+layout: simple
 ---
+
+![](/photo/barbaracox/DSC_5198.jpg)
 
 Il existe une multitude de logements dans la région, à proximité du lieu de mariage.
 
