@@ -14,11 +14,31 @@
   name = "Acceuil"
   pageRef = "/"
   weight = 10
+  
+[[main]]
+  name = "Programme"
+  pageRef = "/programme/"
+  weight = 20
+  
+[[main]]
+  name = "Lieux"
+  pageRef = "/lieux/"
+  weight = 30
+  
+[[main]]
+  name = "Hébergements"
+  pageRef = "/hebergements/"
+  weight = 40
+  
+[[main]]
+  name = "Témoins"
+  pageRef = "/temoins/"
+  weight = 50
 
 [[main]]
   name = "Contact"
   pageRef = "/contact/"
-  weight = 20
+  weight = 60
 
 
 # -- Footer Menu --
