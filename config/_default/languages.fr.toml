@@ -1,0 +1,25 @@
+languageCode = "fr"
+languageName = "Français"
+displayName = ":flag-fr:"
+isoCode = "fr"
+weight = 1
+rtl = false
+
+title = "E & A :ring:"
+# logo = "img/logo.jpg"
+description = "Site web pour le mariage d'Elsa et Antoine"
+# copyright = "&copy; 2023"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Elsa et Antoine"
+  image = "img/author.jpg"
+  headline = ""
+  bio = "Site web pour le mariage d'Elsa et Antoine"
+  links = [
+   # { twitter = "https://twitter.com/" },
+   # { facebook = "https://facebook.com/" },
+   # { linkedin = "https://linkedin.com/" },
+   # { youtube = "https://youtube.com/" },
+  ]

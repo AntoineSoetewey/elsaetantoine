@@ -1,0 +1,13 @@
+baseURL = "https://elsaetantoine.com/"
+
+theme = "congo"
+defaultContentLanguage = "fr"
+
+enableRobotsTXT = true
+paginate = 15
+summaryLength = 0
+
+googleAnalytics = "G-248HJC8VNE"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
