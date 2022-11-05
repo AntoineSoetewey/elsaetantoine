@@ -29,18 +29,28 @@
   name = "Témoins"
   pageRef = "temoins"
   weight = 40
+  
+[[main]]
+  name = "Liste de mariage"
+  pageRef = "cadeaux"
+  weight = 50
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 50
+  weight = 60
 
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "RSVP"
+  url = "https://forms.gle/YbGVSSqT7Udkc9yM7"
+  weight = 10
+  
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 60

@@ -16,7 +16,7 @@ Ci-dessous le programme de la journée :
 Pour la cérémonie religieuse, on se donne rendez-vous à xxx h à l'Eglise Saint Joseph de Faulx-les-Tombes ([Rue de l'Église 4, 5340 Faulx-les-Tombes](https://goo.gl/maps/iodiArA1H5ZXrkYe6)).
 
 {{< alert >}}
-Il faut indiquer Faulx-les-Tombes comme commune dans le GPS, et non Gesves.
+Nous vous conseillons d'indiquer Faulx-les-Tombes comme commune dans le GPS, et non Gesves.
 {{< /alert >}}
 
 ## Vin d'honneur

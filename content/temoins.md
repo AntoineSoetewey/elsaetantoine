@@ -4,6 +4,8 @@ title: "Témoins"
 layout: simple
 ---
 
+**Page utile ???**
+
 ![](/photo/barbaracox/DSC_5198.jpg)
 
 Nous avons chacun choisi deux proches pour être témoin de notre mariage.
