@@ -25,7 +25,7 @@ On vous attend ensuite pour le vin d'honneur à xxx h au Domaine de Béronsart (
 
 ## Dîner
 
-Vous êtes tous conviés au dîner qui débutera à xxx h dans les Serres du Domaine de Béronsart.
+Vous êtes tous conviés au dîner qui débutera à xxx h dans les serres du Domaine de Béronsart.
 
 ## Soirée dansante
 

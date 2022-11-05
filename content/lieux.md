@@ -25,7 +25,7 @@ Ci-dessous les différents lieux où se déroulent le mariage religieux.
 -   Texte?
 -   Etc.
 
-*Mettre les lieux dans l'ordre chronologique ?*
+*Mettre les lieux dans l'ordre chronologique*
 
 <br>
 

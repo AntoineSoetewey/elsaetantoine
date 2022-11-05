@@ -24,11 +24,11 @@ Sa particularité ?
 
 ## L'équipe du marié
 
-### Quentin (ou Kinkin pour les intimes)
+### Quentin ou Kinkin pour les intimes
 
 C'est qui ? Le copain d'enfance du marié. Ils se sont rencontrés vers l'âge de 15 ans sur un terrain de tennis au TC1310 de La Hulpe. Depuis, ils ont partagé toutes leurs soirées et ils ont vécu ensemble en colocation pendant 3 ans.
 
-Sa particularité ? Quentin est le partenaire de padel n°1 du marié, quand il n'est pas blessé ou en convalescence. Il vous dira qu'il est en carton, et pourtant il s'est mis en quête de finir (ou participer...) à un ironman.
+Sa particularité ? Quentin est le partenaire de padel n°1 du marié, quand il n'est pas blessé ou en convalescence. Il vous dira qu'il est en carton, mais il a tout de même réussi à finir un ironman.
 
 ### Stéphan (oui oui, sans "e" à la fin) ou Stefouchichou
 
