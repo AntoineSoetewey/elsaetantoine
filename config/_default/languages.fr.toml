@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Elsa et Antoine"
-  # image = "img/author.jpg"
+  image = "photo/barbaracox/DSC_5198.jpg"
   headline = ""
   bio = "Site web pour le mariage d'Elsa et Antoine"
   links = [

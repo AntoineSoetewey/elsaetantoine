@@ -7,7 +7,7 @@ title: "Elsa et Antoine"
 23 septembre 2023 :ring:
 {{< /lead >}}
 
-![](/photo/DSC_5198.jpg)
+![](/photo/barbaracox/DSC_5198.jpg)
 
 Comme vous le savez, nous allons nous marier le 23 septembre 2023. Nous nous réjouissons déjà de passer ce moment avec vous ! Vous trouverez sur ce site toutes les informations nécessaires.
 

@@ -9,36 +9,31 @@
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
-
-[[main]]
-  name = "Acceuil"
-  pageRef = "/"
-  weight = 10
   
 [[main]]
   name = "Programme"
-  pageRef = "/programme/"
-  weight = 20
+  pageRef = "programme"
+  weight = 10
   
 [[main]]
   name = "Lieux"
-  pageRef = "/lieux/"
-  weight = 30
+  pageRef = "lieux"
+  weight = 20
   
 [[main]]
   name = "Hébergements"
-  pageRef = "/hebergements/"
-  weight = 40
+  pageRef = "hebergements"
+  weight = 30
   
 [[main]]
   name = "Témoins"
-  pageRef = "/temoins/"
-  weight = 50
+  pageRef = "temoins"
+  weight = 40
 
 [[main]]
   name = "Contact"
-  pageRef = "/contact/"
-  weight = 60
+  pageRef = "contact"
+  weight = 50
 
 
 # -- Footer Menu --
