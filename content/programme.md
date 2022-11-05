@@ -6,44 +6,27 @@ layout: simple
 
 ![](/photo/barbaracox/DSC_5198.jpg)
 
-Ci-dessous le programme de la journée du 23 septembre 2023.
-
-### Mariage civil
-
-*à mon avis à retirer car une partie des gens ne seront pas invités au civil.*
-
--   Date : 24 juin 2023
--   Dresscode :
-
-#### Maison communale
-
-*à mon avis à retirer car une partie des gens ne seront pas invités au civil.*
-
-On vous attend à la maison communale d'Incourt (rue de Brombais 2, 1315 Incourt) le 24 juin 2023 à xxx h.
-
-#### Fête
-
-*à mon avis à retirer car une partie des gens ne seront pas invités au civil.*
-
-Vous êtes ensuite tous invités pour fêter cela chez nous (rue Fond du Village 6, 1315 Incourt). Un dîner ainsi qu'à boire est prévu tout au long de la soirée.
-
-### Mariage religieux
+Ci-dessous le programme de la journée :
 
 -   Date : 23 septembre 2023
 -   Dresscode :
 
-#### Eglise
+## Eglise
 
-On se donne rendez-vous à xxx h à l'église xxx (xxx ajouter adresse) pour la cérémonie religieuse.
+Pour la cérémonie religieuse, on se donne rendez-vous à xxx h à l'Eglise Saint Joseph de Faulx-les-Tombes ([Rue de l'Église 4, 5340 Faulx-les-Tombes](https://goo.gl/maps/iodiArA1H5ZXrkYe6)).
 
-#### Vin d'honneur
+{{< alert >}}
+Il faut indiquer Faulx-les-Tombes comme commune dans le GPS, et non Gesves.
+{{< /alert >}}
 
-On vous attend ensuite pour le vin d'honneur à xxx h au domaine de Béronsart (rue des Carrières 7, 5340 Gesves).
+## Vin d'honneur
 
-#### Dîner
+On vous attend ensuite pour le vin d'honneur à xxx h au Domaine de Béronsart ([Rue des Carrières 7, 5340 Gesves](https://goo.gl/maps/2AxCz3uQ3updXrCw6)).
 
-Vous êtes tous conviés au dîner qui débutera à xxx h dans les serres du domaine de Béronsart.
+## Dîner
 
-#### Soirée dansante
+Vous êtes tous conviés au dîner qui débutera à xxx h dans les Serres du Domaine de Béronsart.
+
+## Soirée dansante
 
 Vous pourrez danser jusqu'au bout de la nuit après le dîner.

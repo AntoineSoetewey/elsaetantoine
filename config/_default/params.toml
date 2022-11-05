@@ -19,7 +19,7 @@ enableCodeCopy = false
   layout = "hamburger" # valid options: basic, hamburger, custom
 
 [footer]
-  showCopyright = false
+  showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = false
@@ -36,8 +36,8 @@ enableCodeCopy = false
   showDraftLabel = false
   showEdit = false
   editURL = "https://github.com/AntoineSoetewey/elsaetantoine/"
-  editAppendPath = true
-  showHeadingAnchors = true
+  editAppendPath = false
+  showHeadingAnchors = false
   showPagination = false
   invertPagination = false
   showReadingTime = false

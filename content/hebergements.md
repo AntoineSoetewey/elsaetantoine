@@ -16,7 +16,7 @@ Si vous désirez réserver une nuit dans l'un d'eux, nous vous laissons le soin 
 -   **At Home** à Gesves : [athome-gesves.be](https://www.athome-gesves.be/) +32 485 15 24 14
 -   **La Haie Bolaine** à Gesves : [la-haie-bolaine.be](https://www.la-haie-bolaine.be/) +32 498 94 61 04
 -   **Domaine sur les Sarts** à Ohey et à Gesves : [domainesurlessarts.com](https://www.domainesurlessarts.com/) +32 85 61 61 15
--   **Studio Cosy** où l'eau fait chanter la pierre : [beromichel\@hotmail.com](mailto:beromichel@hotmail.com) +32 81 58 12 23
+-   **Studio Cosy** où l'eau fait chanter la pierre : [beromichel@hotmail.com](mailto:beromichel@hotmail.com) +32 81 58 12 23
 -   **Chambre thématique « Gesves Côté Jardin »** à Gesves : [gesves-cote-jardin.be](http://gesves-cote-jardin.be/) +32 471 89 40 29
 -   **Le Manoir de Houtte** à Gesves : [manoirdehoute.be](https://manoirdehoute.be/) +32 473 30 82 17
 -   **La Maison du Meunier** à Crupet : [maisondumeunier.be](http://maisondumeunier.be/fr/) +32 471 37 53 00
@@ -45,5 +45,10 @@ Si vous désirez réserver une nuit dans l'un d'eux, nous vous laissons le soin 
 -   **NE5T Hotel et Spa** à Namur : [ne5t.com](http://ne5t.com/) +32 81 58 88 88
 -   **The Royal Snail** à Namur : [theroyalsnail.com](http://theroyalsnail.com/) +32 81 57 00 23
 
-Des formules de transport peuvent également vous êtres proposées sur simple [demande](/contact/).
+<br>
+
+{{< alert "circle-info" >}}
+Notez que des formules de transport depuis le Domaine de Béronsart peuvent également vous êtres proposées sur simple [demande](/contact/).
+{{< /alert >}}
+
 
