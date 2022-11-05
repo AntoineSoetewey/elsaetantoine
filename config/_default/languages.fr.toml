@@ -14,12 +14,12 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Elsa et Antoine"
-  image = "photo/barbaracox/DSC_5198.jpg"
-  headline = ""
+  # image = "img/author.jpg"
+  # headline = ""
   bio = "Site web pour le mariage d'Elsa et Antoine"
-  links = [
+#   links = [
    # { twitter = "https://twitter.com/" },
    # { facebook = "https://facebook.com/" },
    # { linkedin = "https://linkedin.com/" },
    # { youtube = "https://youtube.com/" },
-  ]
+#   ]
