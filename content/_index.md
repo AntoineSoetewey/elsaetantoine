@@ -18,3 +18,5 @@ Pour des questions d'organisation, nous vous invitons à confirmer votre présen
 {{< button href="https://forms.gle/YbGVSSqT7Udkc9yM7" target="_blank" >}}
 Confirmer ma présence
 {{< /button >}}
+
+<br>
