@@ -6,7 +6,7 @@ layout: simple
 
 ![](/photo/barbaracox/DSC_5198.jpg)
 
-Ci-dessous les différents lieux où se déroulent le mariage civil et le mariage religieux.
+Ci-dessous les différents lieux où se déroulent le mariage religieux.
 
 ## Maison communale d'Incourt
 
