@@ -7,7 +7,7 @@ rtl = false
 
 title = "E & A :ring:"
 # logo = "img/logo.jpg"
-description = "Site web pour le mariage d'Elsa et Antoine"
+description = "Site web reprenant toutes les informations concernant le mariage d'Elsa et Antoine"
 copyright = "&copy; 2023. Made with :yellow_heart: by Elsa & Antoine"
 
 dateFormat = "2 January 2006"
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = "Elsa et Antoine"
   # image = "img/author.jpg"
   # headline = ""
-  bio = "Site web pour le mariage d'Elsa et Antoine"
+  # bio = "Site web pour le mariage d'Elsa et Antoine"
 #   links = [
    # { twitter = "https://twitter.com/" },
    # { facebook = "https://facebook.com/" },
