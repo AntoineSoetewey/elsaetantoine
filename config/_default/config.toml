@@ -4,7 +4,7 @@ theme = "congo"
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
-paginate = 15
+paginate = 10
 summaryLength = 0
 
 googleAnalytics = "G-248HJC8VNE"

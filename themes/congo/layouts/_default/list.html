@@ -20,20 +20,24 @@
         </div>
       </div>
     {{ end }}
-    <div class="min-w-0 min-h-0 max-w-prose">
+    <div class="min-w-0 min-h-0 max-w-prose grow">
       {{ .Content | emojify }}
     </div>
   </section>
-  {{ if gt .Pages 0 }}
+  {{ if .Data.Pages }}
     <section>
-      {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
-        {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
+      {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
+        {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
           <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
             {{ .Key }}
           </h2>
           <hr class="border-dotted w-36 border-neutral-400" />
+          {{ range .Pages }}
+            {{ partial "article-link.html" . }}
+          {{ end }}
         {{ end }}
-        {{ range .Pages }}
+      {{ else }}
+        {{ range .Paginator.Pages }}
           {{ partial "article-link.html" . }}
         {{ end }}
       {{ end }}
