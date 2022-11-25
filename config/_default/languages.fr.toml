@@ -8,7 +8,7 @@ rtl = false
 title = "E & A :ring:"
 # logo = "img/logo.jpg"
 description = "Site web reprenant toutes les informations concernant le mariage d'Elsa et Antoine"
-copyright = "&copy; 2023 Fait avec :white_heart: par Elsa & Antoine"
+copyright = "&copy; 2023. Fait avec :white_heart: par Elsa & Antoine"
 
 dateFormat = "2 January 2006"
 
