@@ -10,9 +10,8 @@ Ci-dessous le programme de la journée.
 
 Pour la cérémonie religieuse, on se donne rendez-vous à 12h45 h à l'Eglise Saint Joseph de Faulx-les-Tombes :
 
-- Adresse : [Rue de l'Église 4, 5340 Faulx-les-Tombes](https://goo.gl/maps/iodiArA1H5ZXrkYe6)
+- Adresse : [**Rue de l'Église 4, 5340 Faulx-les-Tombes**](https://goo.gl/maps/iodiArA1H5ZXrkYe6)
 - Il y a un parking de 80 places devant l'église
-- Autre ?
 
 {{< alert >}}
 Nous vous conseillons d'indiquer Faulx-les-Tombes comme commune dans le GPS, et non Gesves.
@@ -20,13 +19,13 @@ Nous vous conseillons d'indiquer Faulx-les-Tombes comme commune dans le GPS, et 
 
 ## Vin d'honneur
 
-On vous attend ensuite pour le vin d'honneur à xxx h au Domaine de Béronsart :
+On vous attend ensuite pour le vin d'honneur à 15h au Domaine de Béronsart :
 
-- Adresse : [Rue des Carrières 7, 5340 Gesves](https://goo.gl/maps/2AxCz3uQ3updXrCw6)
+- Adresse : [**Rue des Carrières 7, 5340 Gesves**](https://goo.gl/maps/2AxCz3uQ3updXrCw6)
 
 ## Dîner
 
-Vous êtes tous conviés au dîner qui débutera à xxx h dans les serres du Domaine de Béronsart.
+Vous êtes chaleureusement conviés au dîner qui se déroulera dans les serres du Domaine de Béronsart.
 
 ## Soirée dansante
 
