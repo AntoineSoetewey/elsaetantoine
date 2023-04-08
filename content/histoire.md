@@ -32,8 +32,8 @@ Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâte
 
 ## Quentin
 
-Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires pendant leurs 3 ans de coloc).
+Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires).
 
-Depuis leur première rencontre 
+Depuis leur rencontre à une fête des voisins, les 2 compères ont partagé un très grand nombres de soirées, événements sportifs (du tennis au padel en passant par la course à pied et le vélo), et années remplies d'amitié et de complicité.
 
-Antoine se sont rencontrés à une fête des voisins à La Hulpe qui a débouché sur un match de tennis. Depuis, 
+
