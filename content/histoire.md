@@ -16,12 +16,24 @@ C'est donc tout naturellement qu'Isaline, qui au passage avait déjà fait la co
 
 ## Stéphanie
 
+Depuis leur adolescence au Collège Notre-Dame de Basse-Wavre, ces deux-là ne sont plus jamais quittées. A travers les épreuves de la vie qui se sont dressés devant elles, elles ont toujours été d'un soutien sans faille l'une pour l'autre.
 
+xxx
 
 ## Axel
 
+
+
 ## Stéphan
+
+Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaitre en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe.
+
+Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâteau au chocolat (mou mais pas trop), il sera responsable de la bonne ambiance lors du jour J.
 
 ## Quentin
 
-Quentin (Kinkin pour les intimes) et Antoine se sont rencontrés à une fête des voisins à La Hulpe
+Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires pendant leurs 3 ans de coloc).
+
+Depuis leur première rencontre 
+
+Antoine se sont rencontrés à une fête des voisins à La Hulpe qui a débouché sur un match de tennis. Depuis, 
