@@ -1,5 +1,5 @@
 ---
-description: Site web pour le mariage d'Elsa et Antoine.
+description: Détail du programme et des lieux de notre mariage.
 title: "Programme et lieux"
 layout: simple
 ---
