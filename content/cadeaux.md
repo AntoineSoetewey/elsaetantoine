@@ -12,7 +12,7 @@ Si vous souhaitez tout de même nous offrir un des cadeaux qui figurent sur notr
 
 <br>
 <center>
-{{< button href="#" target="_blank" >}}
-Liste de mariage de E & A
+{{< button href="https://www.kadolog.com/fr/list/liste-de-mariage-de-elsa-antoine-82634" target="_blank" >}}
+Liste de mariage d'Elsa & Antoine
 {{< /button >}}
 </center>
