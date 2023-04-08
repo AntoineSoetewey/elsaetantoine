@@ -22,18 +22,16 @@ xxx
 
 ## Axel
 
-
+xxx
 
 ## Stéphan
 
 Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaitre en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe.
 
-Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâteau au chocolat (mou mais pas trop), il sera responsable de la bonne ambiance lors du jour J.
+Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâteau au chocolat (mou mais pas trop), il sera responsable de la bonne ambiance le jour J.
 
 ## Quentin
 
 Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires).
 
 Depuis leur rencontre à une fête des voisins, les 2 compères ont partagé un très grand nombres de soirées, événements sportifs (du tennis au padel en passant par la course à pied et le vélo), et années remplies d'amitié et de complicité.
-
-
