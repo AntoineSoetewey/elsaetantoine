@@ -1,5 +1,5 @@
 ---
-description: Site web pour le mariage d'Elsa et Antoine.
+description: Si vous avez la moindre question, n'hésitez pas à nous contacter.
 title: "Contactez-nous"
 layout: simple
 ---
