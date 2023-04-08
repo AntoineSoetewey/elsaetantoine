@@ -1,5 +1,5 @@
 ---
-description: Site web pour le mariage d'Elsa et Antoine.
+description: Liste des hébergements à proximité du Domaine de Béronsart.
 title: "Hébergements"
 layout: simple
 ---
