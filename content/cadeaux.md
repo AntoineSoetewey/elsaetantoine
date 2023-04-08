@@ -1,5 +1,5 @@
 ---
-description: Site web pour le mariage d'Elsa et Antoine.
+description: Votre présence est le plus beau cadeau. Néanmoins, si vous le souhaitez, voici notre liste de mariage
 title: "Liste de mariage"
 layout: simple
 ---
