@@ -6,7 +6,7 @@ layout: simple
 
 Il y a plus de 5 ans, un match Tinder a changé notre vie à tout jamais !
 
-Aujourd'hui, après avoir voyagé à travers le monde, emménagé ensemble, adopté notre petite Roxy, concrétisé 1001 et projets, le plus beau reste à venir. Nous sommes maintenant sur le point de célébrer notre union avec vous, et sous l'oeil de nos témoins.
+Aujourd'hui, après avoir voyagé à travers le monde, emménagé ensemble, adopté notre petite Roxy, concrétisé 1001 et projets, le plus beau reste à venir. Nous sommes maintenant sur le point de célébrer notre union avec vous, et sous l'œil de nos témoins.
 
 ## Isaline
 
@@ -16,7 +16,7 @@ C'est donc tout naturellement qu'Isaline, qui au passage avait déjà fait la co
 
 ## Stéphanie
 
-Depuis leur adolescence au Collège Notre-Dame de Basse-Wavre, ces deux-là ne sont plus jamais quittées. A travers les épreuves de la vie qui se sont dressés devant elles, elles ont toujours été d'un soutien sans faille l'une pour l'autre.
+Depuis leur adolescence au Collège Notre-Dame de Basse-Wavre, ces deux-là ne sont plus jamais quittées. A travers les épreuves de la vie qui se sont dressées devant elles, elles ont toujours été d'un soutien sans faille l'une pour l'autre.
 
 xxx
 
@@ -26,7 +26,7 @@ xxx
 
 ## Stéphan
 
-Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaitre en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe.
+Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaître en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe qui ont permis de sceller leur amitié.
 
 Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâteau au chocolat (mou mais pas trop), il sera responsable de la bonne ambiance le jour J.
 
@@ -34,4 +34,4 @@ Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâte
 
 Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires).
 
-Depuis leur rencontre à une fête des voisins, les 2 compères ont partagé un très grand nombres de soirées, événements sportifs (du tennis au padel en passant par la course à pied et le vélo), et années remplies d'amitié et de complicité.
+Depuis leur rencontre à une fête des voisins, les 2 compères ont partagé un très grand nombre de soirées, événements sportifs (du tennis au padel en passant par la course à pied et le vélo), et années remplies d'amitié et de complicité.
