@@ -35,3 +35,5 @@ Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâte
 Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires).
 
 Depuis leur rencontre à une fête des voisins, les 2 compères ont partagé un très grand nombre de soirées, événements sportifs (du tennis au padel en passant par la course à pied et le vélo), et années remplies d'amitié et de complicité.
+
+(PS : n'hésitez pas à lui demander de vous montrer son "move" favoris sur la piste de danse.)
