@@ -28,7 +28,7 @@ xxx
 
 Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaître en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe qui ont permis de sceller leur amitié.
 
-Toujours partant pour un (bon) verre de vin rouge, une planche mixte et un gâteau au chocolat (mou mais pas trop), il sera responsable de la bonne ambiance le jour J.
+Toujours partant pour un (bon) verre de vin rouge accompagné d'une planche mixte, suivi d'un gâteau au chocolat (mou mais pas trop) et d'un verre de gin, il sera responsable de la bonne ambiance le jour J.
 
 ## Quentin
 
