@@ -8,7 +8,7 @@ Ci-dessous le programme de la journée.
 
 ## Cérémonie religieuse
 
-Pour la cérémonie religieuse, on se donne rendez-vous à 12h45 h à l'Eglise Saint Joseph de Faulx-les-Tombes :
+Pour la cérémonie religieuse, on se donne rendez-vous à 12h45 à l'Eglise Saint Joseph de Faulx-les-Tombes :
 
 - Adresse : [**Rue de l'Église 4, 5340 Faulx-les-Tombes**](https://goo.gl/maps/iodiArA1H5ZXrkYe6)
 - Il y a un parking de 80 places devant l'église
