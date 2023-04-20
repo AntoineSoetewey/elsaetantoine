@@ -33,7 +33,7 @@ Il y a presque 6 ans, Elsa avait eu l’immense bonheur d’accompagner Stéphan
 ## Axel
 
 <center>
-<img src="/./temoins_files/axe-r2.png" alt="" width="550px"/>
+<img src="/./temoins_files/axe-r2.png" alt="" width="525px"/>
 </center>
 
 Avec ces deux-là, on peut vraiment parler d’un coup de cœur amical ! Axel et Elsa ont vécu en colocation de nombreuses années à Woluwé. Ils ne se sont jamais perdus de vue par la suite, même si leur vie a beaucoup changé depuis cette période estudiantine où ils passaient leur temps à refaire le monde sur le lit de l’un et de l’autre à 3 heures du matin en soirée.
