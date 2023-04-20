@@ -13,7 +13,7 @@ Aujourd’hui, après avoir voyagé à travers le monde, emménagé ensemble, ad
 ## Isaline
 
 <center>
-<img src="/./temoins_files/isa.jpeg" alt="" width="400px"/>
+<img src="/./temoins_files/isa.jpeg" alt="" width="375px"/>
 </center>
 
 Il y a presque 15 ans, dans la cave sombre d’un bunker namurois, est née l’amitié à toutes épreuves entre Isaline et Elsa. De la Floride à Albufeira en passant par New York et l’île de Zrce, elles ont tout vécu ensemble : les rires, les pleurs, les disputes, les gueules de bois, les blocus interminables, les conversations à n’en plus finir, ...
@@ -23,7 +23,7 @@ C’est donc tout naturellement qu’Isaline, qui au passage avait déjà fait l
 ## Stéphanie
 
 <center>
-<img src="/./temoins_files/steph.jpeg" alt="" width="400px"/>
+<img src="/./temoins_files/steph.jpeg" alt="" width="375px"/>
 </center>
 
 Depuis leur adolescence au Collège Notre-Dame de Basse-Wavre, ces deux-là ne sont plus jamais quittées. A travers les épreuves de la vie qui se sont dressées devant elles, elles ont toujours été d’un soutien sans faille l’une pour l’autre. 
@@ -33,7 +33,7 @@ Il y a presque 6 ans, Elsa avait eu l’immense bonheur d’accompagner Stéphan
 ## Axel
 
 <center>
-<img src="/./temoins_files/axe (1).jpeg" alt="" width="600px"/>
+<img src="/./temoins_files/axe (1).jpeg" alt="" width="575px"/>
 </center>
 
 Avec ces deux-là, on peut vraiment parler d’un coup de cœur amical ! Axel et Elsa ont vécu en colocation de nombreuses années à Woluwé. Ils ne se sont jamais perdus de vue par la suite, même si leur vie a beaucoup changé depuis cette période estudiantine où ils passaient leur temps à refaire le monde sur le lit de l’un et de l’autre à 3 heures du matin en soirée.
