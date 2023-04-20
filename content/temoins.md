@@ -23,7 +23,7 @@ C’est donc tout naturellement qu’Isaline, qui au passage avait déjà fait l
 ## Stéphanie
 
 <center>
-<img src="/./temoins_files/steph.jpeg" alt="" width="80%"/>
+<img src="/./temoins_files/steph.jpeg" alt="" width="60%"/>
 </center>
 
 Depuis leur adolescence au Collège Notre-Dame de Basse-Wavre, ces deux-là ne sont plus jamais quittées. A travers les épreuves de la vie qui se sont dressées devant elles, elles ont toujours été d’un soutien sans faille l’une pour l’autre. 
@@ -43,7 +43,7 @@ Cela était donc une évidence qu’Axel soit présent aux côtés des amoureux 
 ## Stéphan
 
 <center>
-<img src="/./temoins_files/stephan.jpeg" alt="" width="80%"/>
+<img src="/./temoins_files/stephan.jpeg" alt="" width="70%"/>
 </center>
 
 Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaître en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe qui ont permis de sceller leur amitié.
