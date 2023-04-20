@@ -13,7 +13,7 @@ Aujourd’hui, après avoir voyagé à travers le monde, emménagé ensemble, ad
 ## Isaline
 
 <center>
-<img src="/./temoins_files/isa.jpeg" alt="" width="600px"/>
+<img src="/./temoins_files/isa.jpeg" alt="" width="400px"/>
 </center>
 
 Il y a presque 15 ans, dans la cave sombre d’un bunker namurois, est née l’amitié à toutes épreuves entre Isaline et Elsa. De la Floride à Albufeira en passant par New York et l’île de Zrce, elles ont tout vécu ensemble : les rires, les pleurs, les disputes, les gueules de bois, les blocus interminables, les conversations à n’en plus finir, ...
@@ -23,7 +23,7 @@ C’est donc tout naturellement qu’Isaline, qui au passage avait déjà fait l
 ## Stéphanie
 
 <center>
-<img src="/./temoins_files/steph.jpeg" alt="" width="600px"/>
+<img src="/./temoins_files/steph.jpeg" alt="" width="400px"/>
 </center>
 
 Depuis leur adolescence au Collège Notre-Dame de Basse-Wavre, ces deux-là ne sont plus jamais quittées. A travers les épreuves de la vie qui se sont dressées devant elles, elles ont toujours été d’un soutien sans faille l’une pour l’autre. 
@@ -43,7 +43,7 @@ Cela était donc une évidence qu’Axel soit présent aux côtés des amoureux 
 ## Stéphan
 
 <center>
-<img src="/./temoins_files/stephan.jpeg" alt="" width="600px"/>
+<img src="/./temoins_files/stephan.jpeg" alt="" width="400px"/>
 </center>
 
 Grand amateur de vélo et de voitures anciennes (surtout les Golf I GTI), Stéphan et Antoine ont appris à se connaître en moto sur le chemin de l'école. En plus d'avoir partagé de nombreuses balades moto endiablées, ils ont partagé 3 ans de vie commune en coloc à La Hulpe qui ont permis de sceller leur amitié.
