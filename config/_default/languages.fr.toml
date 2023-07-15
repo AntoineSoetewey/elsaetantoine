@@ -1,16 +1,17 @@
 languageCode = "fr"
 languageName = "Français"
-displayName = ":flag-fr:"
-isoCode = "fr"
 weight = 1
-rtl = false
 
 title = "E & A :ring:"
-# logo = "img/logo.jpg"
-description = "Site web reprenant toutes les informations concernant le mariage d'Elsa et Antoine"
 copyright = "&copy; 2023. Fait avec :white_heart: par Elsa & Antoine"
 
-dateFormat = "2 January 2006"
+[params]
+  isoCode = "fr"
+  displayName = ":flag-fr:"
+  rtl = false
+  
+  dateFormat = "2 January 2006"
+  description = "Site web reprenant toutes les informations concernant le mariage d'Elsa et Antoine"
 
 [author]
   name = " "
