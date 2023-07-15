@@ -29,11 +29,16 @@
   name = "Hébergements"
   pageRef = "hebergements"
   weight = 40
+  
+[[main]]
+  name = "Photos"
+  pageRef = "photos"
+  weight = 50
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 50
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
