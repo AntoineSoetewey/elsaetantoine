@@ -53,7 +53,7 @@ Toujours partant pour un (bon) verre de vin rouge accompagné d'une planche mixt
 ## Quentin
 
 <center>
-<img src="/./temoins_files/quent-r2.png" alt="" width="350px"/>
+<img src="/./temoins_files/quent-r2.png" alt="" width="550px"/>
 </center>
 
 Quentin (Kinkin pour les intimes) complète le trio Stéphan-Quentin-Antoine (surnommé les trois mousquetaires de La Hulpe pendant leur coloc).
