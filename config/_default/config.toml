@@ -1,18 +1,15 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
 baseURL = "https://elsaetantoine.com/"
 
 theme = "congo"
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
+paginate = 15
 summaryLength = 0
-
-googleAnalytics = "G-248HJC8VNE"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true

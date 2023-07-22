@@ -4,13 +4,6 @@ title: "Photos"
 layout: simple
 ---
 
-## Photos du mariage civil
+Vous retrouverez toutes les photos du mariage civil via [ce lien](https://elisehaemers.pixpa.com/site/elsa-antoine/elsa-antoine).
 
-Vous pouvez télécharger toutes les photos que vous voulez directement sur le site suivant : 
-
-<br>
-<center>
-{{< button href="https://elisehaemers.pixpa.com/site/elsa-antoine/elsa-antoine" target="_blank" >}}
-Photos du mariage civil
-{{< /button >}}
-</center>
+<img src="/./photos_files/7K5A6929-min.jpg" alt="" width="100%"/>
