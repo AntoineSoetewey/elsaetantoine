@@ -5,8 +5,8 @@ title: "Elsa et Antoine"
 
 <img src="/./_index_files/accueil.jpeg" alt="" width="100%"/>
 
-Comme vous le savez probablement, nous allons nous marier le 23 septembre 2023. Nous nous réjouissons déjà de passer ce moment avec vous !
+Nous vous remercions chaleureusement pour votre présence à notre mariage !
 
-Vous trouverez sur ce site toutes les informations nécessaires au bon déroulement de la journée.
+Retrouvez toutes les photos du mariage civil ainsi que celles du mariage religieux via ce [lien](/photos/).
 
-N'hésitez pas à [nous contacter](/contact) si vous avez la moindre question.
+N'hésitez pas à nous [contacter](/contact) si vous avez la moindre question.
