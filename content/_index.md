@@ -8,5 +8,3 @@ title: "Elsa et Antoine"
 Nous vous remercions chaleureusement pour votre présence à notre mariage !
 
 Retrouvez toutes les photos du mariage civil ainsi que celles du mariage religieux via ce [lien](/photos/).
-
-N'hésitez pas à nous [contacter](/contact) si vous avez la moindre question.
