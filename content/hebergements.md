@@ -1,7 +1,7 @@
 ---
 description: Liste des hébergements à proximité du Domaine de Béronsart.
 title: "Hébergements"
-layout: simple
+layout: "simple"
 ---
 
 Il existe une multitude de logements dans la région, à proximité du lieu de mariage.

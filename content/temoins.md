@@ -1,7 +1,7 @@
 ---
 description: Apprenez-en plus sur nous et nos témoins !
 title: ""
-layout: simple
+layout: "simple"
 ---
 
 Il y a plus de 5 ans, un match Tinder a changé leur vie à tout jamais !

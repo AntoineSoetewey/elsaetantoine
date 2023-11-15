@@ -1,7 +1,7 @@
 ---
 description: Retrouvez toutes les photos faites par les photographes
 title: "Photos"
-layout: simple
+layout: "simple"
 ---
 
 Retrouvez toutes les photos :

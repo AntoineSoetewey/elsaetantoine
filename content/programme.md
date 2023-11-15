@@ -1,7 +1,7 @@
 ---
 description: Détail du programme et des lieux de notre mariage.
 title: "Programme et lieux"
-layout: simple
+layout: "simple"
 ---
 
 Ci-dessous le programme de la journée.
