@@ -16,7 +16,7 @@
 #   weight = 10
 
 [[main]]
-  name = "Photos"
+  name = "Photos & vidéos"
   pageRef = "photos"
   weight = 10
   
@@ -35,10 +35,10 @@
 #   pageRef = "hebergements"
 #   weight = 40
 
-[[main]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 99
+# [[main]]
+#   name = "Contact"
+#   pageRef = "contact"
+#   weight = 99
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
