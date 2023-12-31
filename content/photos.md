@@ -9,7 +9,7 @@ Retrouvez toutes les photos :
 - du [mariage religieux](https://gabriellelivre.pixieset.com/mariageelsaetantoine/)
 - du [mariage civil](https://elisehaemers.pixpa.com/site/elsa-antoine/elsa-antoine)
 
-Et les vidéos :
+Et les vidéos du mariage religieux :
 
 - [Version courte](https://youtu.be/oYo0KaZ6RCE)
 - [Version longue](https://youtu.be/sXkkoyutXPM)
