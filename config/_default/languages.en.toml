@@ -12,7 +12,7 @@ copyright = "&copy; 2024. Fait avec :white_heart: par Elsa & Antoine"
   # mainSections = ["section1", "section2"]
   description = "Site web reprenant toutes les informations concernant le mariage d'Elsa et Antoine"
 
-[author]
+[params.author]
   name = " "
   # image = "img/author.jpg"
   # headline = "I'm only human"
@@ -33,6 +33,7 @@ copyright = "&copy; 2024. Fait avec :white_heart: par Elsa & Antoine"
   #   { github = "https://github.com/username" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
+  #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
@@ -41,6 +42,7 @@ copyright = "&copy; 2024. Fait avec :white_heart: par Elsa & Antoine"
   #   { linkedin = "https://linkedin.com/in/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
+  #   { mendeley = "https://www.mendeley.com/" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },
@@ -56,7 +58,7 @@ copyright = "&copy; 2024. Fait avec :white_heart: par Elsa & Antoine"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
+  #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   # ]
